@@ -111,6 +111,7 @@ p{
 img{
     margin: auto;
     display: flex;
+    max-width: 95vw;
 }
 .video_box{
     background-color: rgb(0, 59, 0);
